@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iamnitesh108.iamnitesh108">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Nitesh!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Nitesh!;&center=true&size=30">
   </a>
 </h1>
-<!--   <h2 align="left">Hi 👋! My name is Nitesh </h2> -->
+<!--  <h2 align="left">Hi 👋! My name is Nitesh </h2> -->
 
 
 <div align="center">
